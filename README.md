@@ -1,8 +1,12 @@
 # AtliQ-Hospitality-Analytics-Power-BI
-Overview
-This repository contains the project files for the Atliq Grands Hospitality Analytics project. Atliq Grands, a prominent player in India's hospitality sector, faced challenges in the luxury business hotel segment. This project aims to address those challenges by incorporating data-driven strategies and business intelligence.
+# Overview
+
+This repository contains the project files for the Atliq Grands Hospitality Analytics project. Atliq Grands, a prominent player in India's hospitality sector, faced challenges in the luxury business hotel segment. 
+
+This project aims to address those challenges by incorporating data-driven strategies and business intelligence.
 
 Problem Statement
+
 Atliq Grands has experienced declining market share and revenue due to competition and management decisions. The project focuses on revitalizing the business by leveraging hospitality analytics to make informed decisions.
 
 Project Goal
@@ -15,25 +19,55 @@ Enhanced Customer Satisfaction: By analyzing customer feedback, we identified ar
 
 Optimized Revenue Pricing Strategies: Data-driven approach allowed for dynamic pricing, resulting in higher revenues and better market positioning.
 
-Skills learnt from project
+# Skills learnt from project
 key metrices learnt:
+
 revenue
+
 RevPAR
+
 ADR
+
 DBRN
+
 DSRN
+
 DURN
+
 Realisation %
+
 occupancy and cancellation %
-power BI fundamentals
+
+# power BI fundamentals
+
 data cleaning and snowflake schema modelling
-learnt about page navigation, tool tip,conditional formatting
-created donut ,line,ribbon , line and clustered columns chart, matrix table.
+
+learnt about page navigation, 
+
+tool tip,conditional formatting
+
+created donut,
+
+line,
+
+ribbon,
+
+line and clustered columns chart,
+
+matrix table.
+
 soft skills
+
 domain knowledge in hospitality
+
 understanding stakeholders requirement from mock up dashboard
-Repository Contents
+
+# Repository Contents
+
  project pdf: Contains dashboard pdf files
+ 
  insights: contians key insigths from dashboard
+ 
 recommendation: contains key recommendations from dashboard
+
 data modelling : star and schema modelling between fact and dimension table
